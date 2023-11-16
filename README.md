@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @4ilara
-- 👀 I’m interested in Quantum Computing & AI
-- 🌱 I’m currently learning Quantum Optimization Algorithms
+- 👀 I’m interested in Quantum Computing
 
 <!---
 4ilara/4ilara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
